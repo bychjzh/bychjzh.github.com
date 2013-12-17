@@ -7,7 +7,7 @@ tagline: bychjzh
 
 A simple coder.  
 
-Using ***java*** 、 ***python*** 、***shell***.  
+Using ***java***, ***python***, ***shell***.  
 
 
 Facebook: bychjzh  
