@@ -2,7 +2,7 @@
 layout: post
 title: "python 命令行参数处理 getopt"
 description: ""
-category: ""
+category: "python"
 tags: ["python"]
 ---
 {% include JB/setup %}
