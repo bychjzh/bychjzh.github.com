@@ -11,7 +11,7 @@ Using ***java***, ***python***, ***shell***.
 
 
 Facebook: bychjzh  
-Twitter: @bycjzh  
+Twitter: @bychjzh  
 
 [Weibo][1]  
 [Email][2] 
