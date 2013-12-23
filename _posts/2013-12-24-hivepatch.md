@@ -39,6 +39,7 @@ tags: ['Hive']
 将当前分支合并到测试分支
 
     [bychjzh@localhost:hive(hive-0.11-dev)]$git merge hive-0.11-HIVE-4513
-##四、在jenkins执行测试并构建
-##五、合回主干，并上线
+##四、在jenkins执行测试并构建 
+
+##五、合回主干上线
   [1]: https://issues.apache.org/jira/browse/HIVE-4513
